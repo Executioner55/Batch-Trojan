@@ -8,3 +8,5 @@ https://github.com/Bifftanner/Batchfile-trojan-horse/blob/main/trojan.bat- "Troj
 https://github.com/pankoza-pl/batchtrojangenerator                       - Virus!=Trojan<br />
 https://github.com/VarunBanka/trojan                                     - didnt knew that a "Wifi password cracker" is a Trojan.<br />
 https://github.com/VSNOOB                                                - Never saw a better Virus... but still no Trojan. (Joking of course its shit)<br />
+
+#### Note : Programm will be released this weekend and get updates.
