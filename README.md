@@ -5,5 +5,3 @@ One.    https://github.com/Bifftanner/Batchfile-trojan-horse/blob/main/trojan.ba
 Two.    https://github.com/pankoza-pl/batchtrojangenerator
 Three.  https://github.com/VSNOOB/ActualDangerousTrojanVirus
 Four.   https://github.com/VarunBanka/trojan
-
-Sadly I dont have enough space to comment everything in here but check it out youreself.
