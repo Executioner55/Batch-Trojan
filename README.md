@@ -8,6 +8,5 @@ One.    https://github.com/Bifftanner/Batchfile-trojan-horse/blob/main/trojan.ba
 Two.    https://github.com/pankoza-pl/batchtrojangenerator
 
 VarunBanka and VSNOOB : No Space to write more...
-
 One.   "Trojan" in the code itself it says "Title DDoSer and ip grabber!"
 Two.    Virus!=Trojan
