@@ -10,3 +10,33 @@ https://github.com/VarunBanka/trojan                                     - didnt
 https://github.com/VSNOOB                                                - Never saw a better Virus... but still no Trojan. (Joking of course its shit)<br />
 
 #### Note : Programm will be released this weekend and get updates.
+
+
+
+### Feature's
+
+#### Protection
+#### 	- Copy Client to Startup
+#### 	- Killswitch Mode
+#### 	- Immortal Mode [Comming Soon]
+#### 	- Lockdown Mode [Activate on Taskmanager/Process Hacker]
+#### 	- Overwrite Lockdown Mode
+#### 	- Secure Mode
+####	- Standby Mode
+
+#### Remote Control 
+#### 	- Send Commands to Victim
+#### 	- Take Screenshot & Receive over Discord Webhook
+
+#### Log
+#### 	- Receive over Discord Webhook : New Victim Notification
+#### 	- Receive over Discord Webhook : Victim Client Reboot Notification
+#### 	- Receive over Discord Webhook : Victim IP
+#### 	- Receive over Discord Webhook : Victim Username
+#### 	- Receive over Discord Webhook : Victim Computername
+#### 	- Receive over Discord Webhook : Victim HWID
+
+#### Other
+#### 	- Check for Internet Connection
+
+#### Note : More Feature's will be Listed and come with Update's
