@@ -2,7 +2,7 @@
 #### on GitHub that there seems to be no one at least in the batch area
 #### who knows the difference between trojans and viruses.
 
-### Note : Programm will be released on 12.3.2022 and get updates.
+### Note : Programm will be released on 12.3.2022. For educational purposes only.
 
 
 
@@ -32,4 +32,4 @@
 ### Other
 #### 	- Check for Internet Connection
 
-### Note : More Feature's will be Listed and come with Update's
+### Note : More Feature's will be Listed and come with Update's.
