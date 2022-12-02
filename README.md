@@ -24,18 +24,12 @@
 #### 	- Take Screenshot & Receive over Discord Webhook
 
 ### Log
-#### 	- Receive over Discord Webhook : New Victim Notification
-####      - Extra Feature : Turn On/Off
-#### 	- Receive over Discord Webhook : Victim Client Reboot Notification
-####     - Extra Feature : Turn On/Off
-#### 	- Receive over Discord Webhook : Victim IP
-####      - Extra Feature : Turn On/Off
-#### 	- Receive over Discord Webhook : Victim Username
-####      - Extra Feature : Turn On/Off
-#### 	- Receive over Discord Webhook : Victim Computername
-####     - Extra Feature : Turn On/Off
-#### 	- Receive over Discord Webhook : Victim HWID
-####      - Extra Feature : Turn On/Off
+#### 	- Receive over Discord Webhook : New Victim Notification           (Turn On/Off)
+#### 	- Receive over Discord Webhook : Victim Client Reboot Notification (Turn On/Off)
+#### 	- Receive over Discord Webhook : Victim IP                         (Turn On/Off)
+#### 	- Receive over Discord Webhook : Victim Username                   (Turn On/Off)
+#### 	- Receive over Discord Webhook : Victim Computername               (Turn On/Off)
+#### 	- Receive over Discord Webhook : Victim HWID                       (Turn On/Off)
 
 ### Other
 #### 	- Check for Internet Connection
