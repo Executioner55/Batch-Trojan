@@ -11,14 +11,16 @@
 ### Protection
 #### 	- Copy Client to Startup
 #### 	- Killswitch Mode
-#### 	- Immortal Mode [Comming Soon]
 #### 	- Lockdown Mode [Activate on Taskmanager/Process Hacker]
 #### 	- Overwrite Lockdown Mode
 #### 	- Secure Mode
 ####	- Standby Mode
+#### 	- Vanish Mode Automatic [Comming Soon]
+#### 	- Immortal Mode (Spreading and Infecting the PC,Antidelete...)[Comming Soon]
 
 ### Remote Control 
 #### 	- Send Commands to Victim
+#### 	  - changeable reception delay
 #### 	- Take Screenshot & Receive over Discord Webhook
 
 ### Log
@@ -33,3 +35,12 @@
 #### 	- Check for Internet Connection
 
 ### Note : More Feature's will be Listed and come with Update's.
+
+
+## Tutorial
+
+### How to Use
+####  1. Download Files
+####  2. Create Pastebin.com Account
+####  3. Create New Unlisted Paste
+####  4. Copy and Paste this Code : [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
