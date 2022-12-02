@@ -44,4 +44,4 @@
 ####  2. Create Pastebin.com Account
 ####  3. Create New Unlisted Paste
 ####  4. Copy and Paste this Code : [Link](https://pastebin.com/TPNfDEu7)
-####  5. Copy the Url of youre Paste site and change it like this https://pastebin.com/jsdagjj >> https://pastebin.com/raw/jsdagjj now paste this link into the              batch file where it sets the variable Server=LinkHere
+####  5. Copy the Url of youre Paste site and change it like this https://pastebin.com/jsdagjj >> https://pastebin.com/raw/jsdagjj now paste this link into the                 batch file where it sets the variable Server=LinkHere
