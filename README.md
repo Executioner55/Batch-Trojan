@@ -25,11 +25,17 @@
 
 ### Log
 #### 	- Receive over Discord Webhook : New Victim Notification
+####    - Extra Feature : Turn On/Off
 #### 	- Receive over Discord Webhook : Victim Client Reboot Notification
+####    - Extra Feature : Turn On/Off
 #### 	- Receive over Discord Webhook : Victim IP
+####    - Extra Feature : Turn On/Off
 #### 	- Receive over Discord Webhook : Victim Username
+####    - Extra Feature : Turn On/Off
 #### 	- Receive over Discord Webhook : Victim Computername
+####    - Extra Feature : Turn On/Off
 #### 	- Receive over Discord Webhook : Victim HWID
+####    - Extra Feature : Turn On/Off
 
 ### Other
 #### 	- Check for Internet Connection
@@ -44,4 +50,7 @@
 ####  2. Create Pastebin.com Account
 ####  3. Create New Unlisted Paste
 ####  4. Copy and Paste this Code : [Link](https://pastebin.com/TPNfDEu7)
-####  5. Copy the Url of youre Paste site and change it like this https://pastebin.com/jsdagjj >> https://pastebin.com/raw/jsdagjj now paste this link into the                         batch file where it sets the variable Server=LinkHere
+####  5. Copy the Url of youre Paste site and change it like this https://pastebin.com/jsdagjj >> https://pastebin.com/raw/jsdagjj now paste this link into the              batch file where it sets the variable Server=LinkHere
+####  6. Send this batch File to anyone, the person only have to open the File and they get Infected.
+####  7. Now Setup is done and you can Control youre Victims via Editing the Paste site and send out Commands!
+####  0. Need Help? Contact Me : Executioner#5068
