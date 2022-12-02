@@ -43,4 +43,4 @@
 ####  1. Download Files
 ####  2. Create Pastebin.com Account
 ####  3. Create New Unlisted Paste
-####  4. Copy and Paste this Code : [Link](https://pastebin.com/TPNfDEu7) ("Executioner's Code")
+####  4. Copy and Paste this Code : [Link](https://pastebin.com/TPNfDEu7)
