@@ -43,4 +43,4 @@
 ####  1. Download Files
 ####  2. Create Pastebin.com Account
 ####  3. Create New Unlisted Paste
-####  4. Copy and Paste this Code : [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+####  4. Copy and Paste this Code : [Link](https://pastebin.com/TPNfDEu7) ("Executioner's Code")
