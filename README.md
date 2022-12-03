@@ -18,6 +18,7 @@
 #### 	- Vanish Mode Automatic [Comming Soon]
 #### 	- Immortal Mode (Spreading and Infecting the PC,Antidelete...)[Comming Soon]
 ####  - Deactivate Windows Defender
+####  - Diri Changer (Change the Output path from time to time for command's reception)
 
 ### Remote Control 
 #### 	- Send Commands to Victim
@@ -54,5 +55,6 @@
 ## FAQ
 
 ### Some Basic stuff you might want to change and think of.
-####  - Batch to Exe possible? Yep feel free to convert it, it wont corrupt the Trojan. (Keep in mind Antivirus will detect the File.)
-####  - Can I add my own function's to the Programm? Yes but you need to know what you're doing the Programm is hold simple to easily understand it. (Maybe it will be easier in the feature in any Update a will add a create new function method for beginners-noobs)
+####  1. Batch to Exe possible? Yep feel free to convert it, it wont corrupt the Trojan. (Keep in mind Antivirus will detect the File.)
+####  2. Can I add my own function's to the Programm? Yes but you need to know what you're doing the Programm is hold simple to easily understand it. (Maybe it will be easier in the feature in any Update a will add a create new function method for beginners-noobs)
+####  3. Infected myself what can I do to remove it? (Answer Comming on Release)
