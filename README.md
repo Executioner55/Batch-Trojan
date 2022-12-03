@@ -11,25 +11,40 @@
 ### Protection
 #### 	- Copy Client to Startup
 #### 	- Killswitch Mode
-#### 	- Immortal Mode [Comming Soon]
 #### 	- Lockdown Mode [Activate on Taskmanager/Process Hacker]
 #### 	- Overwrite Lockdown Mode
 #### 	- Secure Mode
 ####	- Standby Mode
+#### 	- Vanish Mode Automatic [Comming Soon]
+#### 	- Immortal Mode (Spreading and Infecting the PC,Antidelete...)[Comming Soon]
 
 ### Remote Control 
 #### 	- Send Commands to Victim
+#### 	  - changeable reception delay
 #### 	- Take Screenshot & Receive over Discord Webhook
 
 ### Log
-#### 	- Receive over Discord Webhook : New Victim Notification
-#### 	- Receive over Discord Webhook : Victim Client Reboot Notification
-#### 	- Receive over Discord Webhook : Victim IP
-#### 	- Receive over Discord Webhook : Victim Username
-#### 	- Receive over Discord Webhook : Victim Computername
-#### 	- Receive over Discord Webhook : Victim HWID
+#### 	- Receive over Discord Webhook : New Victim Notification           (Turn On/Off)
+#### 	- Receive over Discord Webhook : Victim Client Reboot Notification (Turn On/Off)
+#### 	- Receive over Discord Webhook : Victim IP                         (Turn On/Off)
+#### 	- Receive over Discord Webhook : Victim Username                   (Turn On/Off)
+#### 	- Receive over Discord Webhook : Victim Computername               (Turn On/Off)
+#### 	- Receive over Discord Webhook : Victim HWID                       (Turn On/Off)
 
 ### Other
 #### 	- Check for Internet Connection
 
 ### Note : More Feature's will be Listed and come with Update's.
+
+
+## Tutorial
+
+### How to Use
+####  1. Download Files
+####  2. Create Pastebin.com Account
+####  3. Create New Unlisted Paste
+####  4. Copy and Paste this Code : [Link](https://pastebin.com/TPNfDEu7)
+####  5. Copy the Url of youre Paste site and change it like this https://pastebin.com/jsdagjj >> https://pastebin.com/raw/jsdagjj now paste this link into the              batch file where it sets the variable Server=LinkHere
+####  6. Send this batch File to anyone, the person only have to open the File and they get Infected.
+####  7. Now Setup is done and you can Control youre Victims via Editing the Paste site and send out Commands!
+####  0. Need Help? Contact Me : Executioner#5068
