@@ -2,7 +2,7 @@
 #### on GitHub that there seems to be no one at least in the batch area
 #### who knows the difference between trojans and viruses.
 
-### Note : Programm will be released on 13.3.2022. For educational purposes only.
+### Note : Programm will be released on 04.12.2022. For educational purposes only.
 
 
 
