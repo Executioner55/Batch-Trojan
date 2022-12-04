@@ -21,8 +21,7 @@
 ####  - Diri Changer (Change the Output path from time to time for command's reception)
 
 ### Remote Control 
-#### 	- Send Commands to Victim
-#### 	  - changeable reception delay
+#### 	- Send Commands to Victim [changeable reception delay]
 #### 	- Take Screenshot & Receive over Discord Webhook
 
 ### Log
